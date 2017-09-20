@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main {
+	clear: left;
+	float: left;
+	height: 800px;
+	width: 1003px;
+	background-color: #C00;
+}
+.fx1 {
+	height: 250px;
+	clear: left;
+	float: left;
+	position: static;
+}
+.fx1 .banner  {
+	height: 150px;
+	width: 1300px;
+	margin-left: 100px;
+	clear: left;
+	float: left;
+	background-image: url(../images/banner.png);
+}
+.clr1 {
+	background-color: #00F;
+	clear: left;
+	float: left;
+	height: auto;
+	width: 1800px;
+}
+.menubox {
+	clear: left;
+	float: left;
+	height: 43px;
+	width: 940px;
+	margin-left: 300px;
+}
+
+
+.bgline {
+	background-color: #FF0;
+	height: 5px;
+}
+.line1 {
+	background-color: #0FF;
+	height: 5px;
+}
+.contents {
+	height: 800px;
+	width: 1003px;
+	background-repeat: repeat-y;
+}
+.footer1 {
+	background-color: #FF0;
+	height: 100px;
+	width: 1003px;
+}
+
+.marquee {
+	height: 50px;
+	width: 1003px;
+}
+
+.clear{
+	clear:both;
+}
+.schoolimage {
+	height: 350px;
+	width: 975px;
+}
+.textcolor{color:#CCC;
+}
+.textcolor1{color:#F93;
+}
+.textcoloor2{color:#000;}
+.copyright{color: #FF9;}
